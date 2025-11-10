@@ -3,14 +3,9 @@ le site web pour tous crée par alaskofamily
 <!DOCTYPE html>
 <html>
 
-  <head>
+  <heade>
       <title> La création de ma première page en html </title>
-      <style>
-           img {
-                  width: 50%
-               };
-       </style>
-   </head>
+   </heade>
 <body>
     <main>
         <h1> Les cours sont très bien dispensés </h1>
